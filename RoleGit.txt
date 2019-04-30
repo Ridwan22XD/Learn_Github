@@ -1,0 +1,18 @@
+				Role Git
+1. git init 	--> Untuk membuat repositori lokal di dalam folder project.
+	ex : git init
+2. git add	--> Menambah file baru pada repositori yang dipilih.
+	ex : git add (nama file) atau git add .
+3. git commit	--> Menyimpan perubahan, dan setiap perubahan ini wajib memberikan keterangan pada setiap perubahan.
+	ex : git commit -m "(comment perubahan)"
+4. git status	--> Untuk menampilkan status pada repositori lokal.
+	ex : git status
+5. git sinkron	--> Mensinkronkan git lokal dan github
+	ex : git remote add origin (alamat yang ingin di sinkronkan).git 
+6. git clone 	--> Meng-clone atau meng-copy projek dari repositori
+	ex : git clone (alamat yang ingin di clone).git 
+7. git push	--> Upload/mengirimkan perubahan file setelah di commit ke repositori.
+	ex : git push origin master
+8. git pull	--> Mendownload/mengambil file yang sudah di ubah dan di upload.
+9. git branch	--> Melihat branch yang tersedia pada repositori.
+10. git merge	--> Menggabungkan semua branch yang ada pada repositori.
