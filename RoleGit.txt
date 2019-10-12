@@ -16,3 +16,4 @@
 8. git pull	--> Mendownload/mengambil file yang sudah di ubah dan di upload.
 9. git branch	--> Melihat branch yang tersedia pada repositori.
 10. git merge	--> Menggabungkan semua branch yang ada pada repositori.
+11. 
